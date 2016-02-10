@@ -1,0 +1,21 @@
+{
+  "name": "prospective-payment-cms-data",
+  "version": "1.0.0",
+  "description": "Cleans up data from cms and makes it ready for mongo consumption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cms",
+    "inpatient",
+    "data"
+  ],
+  "author": "Emmanuel Narh",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.2",
+    "lodash": "^4.0.0",
+    "mongoose": "^4.3.6"
+  }
+}
